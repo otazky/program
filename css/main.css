@@ -1,0 +1,98 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+button {
+    height: auto;
+    width: 100%;
+    background-color: ;
+}
+
+.myDIV {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+   	background-color: lightgrey;
+  	margin-top: 20px;
+    display: none; 
+}
+
+.initiallyHidden { 
+    display: none; 
+}
+
+    .row {
+  display: flex;
+}
+
+/* Create two equal columns that sit next to each other */
+.column {
+  float: left;
+  flex: 50%;
+  padding: 10px;
+  height: flex;
+
+}
+
+/* font size to be used in innovative methodologies supbage*/
+
+  p.text-1 {
+      font-size: 15px;
+  }
+  p.text-2 {
+      font-size:19px;
+ }
+  p.text-3 {
+      font-size:27px;
+  }
+  p.text-4 {
+      font-size: 36px;
+  }
+  p.text-5 {
+      font-size: 44px;
+  }
+  p.text-6 {
+      font-size: 55px;
+  }
