@@ -5,10 +5,11 @@ Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezb
 `Jednotlivé prvky budou ověřovány a představovány na příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
 
-##5 modulů (částí) chytrého systému 
-```markdown
+# 5 modulů (částí) chytrého systému 
+
 
 ### 1. Návrhy do programu: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
+```markdown
 
 - prvek 1: formulář pro návrhy s pevnou strukturou
 - prvek 2: prohlížení návrhů jednotlivě i v kontextu
@@ -17,51 +18,57 @@ Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezb
 1. Vaše otázky/požadavky k této části
 2. ???
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 ```
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
-```markdown
+
 ### 2. Státní rozpočet: celek, kategorie, vazba na programové návrhy, interaktivní změna rozpočtu
+```markdown
 
 - prvek 1:
 
 1. Vaše otázky/požadavky k této části
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 ```
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
-```markdown
+
 ### 3. Zákony: vazba na státní rozpočet, sledování "kvality" zákonů (duplicity, přílepky, redundance, krátký životnost - velký počet novelizací aj.)
+```markdown
 
 - prvek 1:
 
 1. Vaše otázky/požadavky k této části
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 
 ```
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
-```markdown
+
 ### 4. 100 celonárodních priorit: jaké kroky nejvíce odblokují náš rozvoj
-
-- prvek 1:
-
-1. Vaše otázky/požadavky k této části
-
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
-
-```
-<hr>
 ```markdown
-### 5. ???
 
 - prvek 1:
 
 1. Vaše otázky/požadavky k této části
 
+```
+
 **ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
+<hr>
+
+### 5. ???
+```markdown
+
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
 
 ```
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
 
 # Kritický blog: aktuální praxe tvorby programů ve stranách
