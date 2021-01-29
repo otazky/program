@@ -19,12 +19,15 @@ Systém - databáze - bude mít patrně 6 samostatných, ale funkčně propojen�
 (viz níže podrobněji)
 <hr>
 
-```markdown
+
 ### 1. Dlouhodobé kompasy: obecnější trendy hodné posilování (celospolečenská shoda)
-
 Snadnější horizontální kontrola synergií napříč programem. Může sloužit i jako relativně jednoduché vodítko pro poslance/kyně při rozhodování o nové legislativě, mohou pokládat otázky ve vztahu ke kompasům.
+```markdown
+- prvek 1:
 
+**Vaše otázky/požadavky/komentáře k této části:** 
 ```
+<hr>
 ### 2. Programové návrhy: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
 ```markdown
 Tento modul bude mít tyto funkcionality (oceníme Vaše připomínky a návrhy):
@@ -114,7 +117,7 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 
 <h2 style="color: silver-chalice"> Kritický blog: aktuální praxe tvorby programů ve stranách</h2>
 
-Zde najdete komentáře s konkrétními příklady...
+Komentáře s konkrétními příklady [zde](/blog)
 
 <hr>
 
