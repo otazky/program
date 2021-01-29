@@ -38,7 +38,7 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 
 [**Odkaz na zkušební verzi sběrného formuláře:**](https://docs.google.com/forms/d/1pZHPix5DfDnXqsuo21YRMI2-ze0PegkkuOjWoxfHfQk/) 
 
-[**Náhled do tabulky návrhů:**](https://docs.google.com/spreadsheets/d/1A-Z9R1hbkcU2HO_twYkmud9sZyUj-OMOTOwAyZitRKQ (s možností psát komentáře))
+[**Náhled do tabulky návrhů:**](https://docs.google.com/spreadsheets/d/1A-Z9R1hbkcU2HO_twYkmud9sZyUj-OMOTOwAyZitRKQ) (s možností psát komentáře)
 <hr>
 
 
