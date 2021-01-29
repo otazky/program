@@ -1,12 +1,12 @@
-## Vítejte na stránkách projektu "Politický program: participativně, deliberativně a open source"
+## Politický program: participativně, deliberativně a open source
 
 Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezbariérové a transparentní tvorby smysluplného dlouhodobého programu, který se zaměřuje na to nejpodstatnější v širokém kontextu a na synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). 
 
-Jednotlivé prvky budou ověřovány a představovány na příkladu návrhu zavedení `nepodmíněného základního příjmu`.
-.....
+`Jednotlivé prvky budou ověřovány a představovány na příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
+
+##5 modulů (částí) chytrého systému 
 ```markdown
-Sem přijde 5 modulů, částí chytré databáze
 
 ### 1. Návrhy do programu: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
 
@@ -17,8 +17,9 @@ Sem přijde 5 modulů, částí chytré databáze
 1. Vaše otázky/požadavky k této části
 2. ???
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 ```
+<hr>
 ```markdown
 ### 2. Státní rozpočet: celek, kategorie, vazba na programové návrhy, interaktivní změna rozpočtu
 
@@ -26,9 +27,9 @@ Sem přijde 5 modulů, částí chytré databáze
 
 1. Vaše otázky/požadavky k této části
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 ```
-
+<hr>
 ```markdown
 ### 3. Zákony: vazba na státní rozpočet, sledování "kvality" zákonů (duplicity, přílepky, redundance, krátký životnost - velký počet novelizací aj.)
 
@@ -36,9 +37,10 @@ Sem přijde 5 modulů, částí chytré databáze
 
 1. Vaše otázky/požadavky k této části
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 
 ```
+<hr>
 ```markdown
 ### 4. 100 celonárodních priorit: jaké kroky nejvíce odblokují náš rozvoj
 
@@ -46,9 +48,10 @@ Sem přijde 5 modulů, částí chytré databáze
 
 1. Vaše otázky/požadavky k této části
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 
 ```
+<hr>
 ```markdown
 ### 5. ???
 
@@ -56,9 +59,10 @@ Sem přijde 5 modulů, částí chytré databáze
 
 1. Vaše otázky/požadavky k této části
 
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 
 ```
+<hr>
 
 # Kritický blog: aktuální praxe tvorby programů ve stranách
 
@@ -69,6 +73,6 @@ Zde najdete komentáře s konkrétními příklady...
 **Kontakt:** Miluš Kotišová, _milusTECKAkotisovaATvolnyTECKAcz_, tel: `773 219 196`
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[Link](url) 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). <br>
+[Link](url) <br>
 ![Image](src)
