@@ -117,7 +117,7 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 
 <h2 style="color: silver-chalice"> Kritický blog: aktuální praxe tvorby programů ve stranách</h2>
 
-Komentáře s konkrétními příklady [zde](/program/tree/gh-pages/blog/)
+Komentáře s konkrétními příklady [zde](https://github.com/otazky/program/tree/gh-pages/blog/)
 
 <hr>
 
