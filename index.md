@@ -1,12 +1,20 @@
 ## Politický program: participativně, deliberativně a open source
 
-Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezbariérové a transparentní tvorby smysluplného dlouhodobého programu, který se zaměřuje na to nejpodstatnější v širokém kontextu a na synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). 
+Toto je nezávislá a nadstranická iniciativa. Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezbariérové a transparentní tvorby smysluplného dlouhodobého programu, který se zaměřuje na to nejpodstatnější v širokém kontextu a na synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). Forma a cíle komunikace s voliči, hledání celospolečenského konsenzu i způsob tvorby a prosazování programu si zaslouží hlubokou proměnu.
 
 `Jednotlivé prvky budou ověřovány a představovány na příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
 
 # 5 modulů (částí) chytrého systému 
 
+Systém - databáze - bude mít patrně 5 samostatných, ale funkčně propojených částí.
+
+1. Programové návrhy <br>
+2. Otevřený státní rozpočet<br>
+3. Otevřená legislativa<br>
+4. 100 strategických priorit<br>
+5. Vizuální deliberace 
+<hr>
 
 ### 1. Návrhy do programu: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
 ```markdown
