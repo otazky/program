@@ -1,11 +1,11 @@
 ## Politický program: participativně, deliberativně a open source
 
-Toto je nezávislá a nadstranická iniciativa. Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezbariérové a transparentní tvorby smysluplného dlouhodobého programu, který se zaměřuje na to nejpodstatnější v širokém kontextu a na synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). Forma a cíle komunikace s voliči, hledání celospolečenského konsenzu i způsob tvorby a prosazování programu si zaslouží hlubokou proměnu.
+Toto je nezávislá a nadstranická iniciativa. Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezbariérové a transparentní tvorby smysluplného dlouhodobého programu, který se zaměřuje na to nejpodstatnější v širokém kontextu a na synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). Forma a cíle komunikace s voliči, hledání celospolečenského konsenzu i způsob tvorby a prosazování programu si zaslouží hlubokou proměnu. Žádný návrh se nesmí ztratit, zapadnout, zůstat bez reakce, vsazení do širšího kontextu, srovnání... Programová politika bez samozvaných strážců brány.
 
 `Jednotlivé prvky budou ověřovány a představovány na příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
 
-# 5 modulů (částí) chytrého systému 
+## 5 modulů (částí) chytrého systému 
 
 Systém - databáze - bude mít patrně 5 samostatných, ale funkčně propojených částí.
 
@@ -67,7 +67,7 @@ Systém - databáze - bude mít patrně 5 samostatných, ale funkčně propojen�
 **ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
 
-### 5. ???
+### 5. Vizuální deliberace: každý má trvale dálkový přístup k celku i detailu toho podstatného pro své rozhodování a občanskou intervenci
 ```markdown
 
 - prvek 1:
