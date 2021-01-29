@@ -1,8 +1,8 @@
 ## Politický program: participativně, deliberativně a open source
 
-Toto je nezávislá a nadstranická iniciativa. Zde veřejně přemýšlíme a experimentujeme s tím, jak bezbariérově a transparentně tvořit smysluplný dlouhodobý program, který se zaměřuje na to nejpodstatnější v širokém kontextu a na celkový synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). Forma a cíle komunikace s voliči, hledání celospolečenského konsenzu i způsob tvorby a prosazování programu si zaslouží hlubokou proměnu. Žádný voličský návrh se nesmí ztratit, zapadnout, zůstat bez reakce, potřebuje být vsazen do širšího kontextu, srovnán s jinými, dál rozpracován, kriticky posouzen... Programová politika bez samozvaných strážců brány, s transparentními kritérii stupně rozpracování návrhu.
+Toto je nezávislá, nadstranická iniciativa. Začínáme takřka od nuly - veřejně přemýšlíme a experimentujeme s tím, jak bezbariérově a transparentně tvořit smysluplný dlouhodobý program, který se zaměřuje na to nejpodstatnější v širokém kontextu a na celkový synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). Forma a cíle komunikace s voliči, hledání celospolečenského konsenzu i způsob tvorby a prosazování programu si zaslouží hlubokou proměnu. Žádný voličský návrh se nesmí ztratit, zapadnout, zůstat bez reakce, potřebuje být vsazen do širšího kontextu, srovnán s jinými, dál rozpracován, kriticky posouzen... Programová politika bez samozvaných strážců brány, s transparentními kritérii stupně rozpracování návrhu a zpětnou vazbou. Uvítáme zájemce o spolupráci.
 
-`Jednotlivé prvky budou ověřovány a představovány na příkladu návrhu zavedení nepodmíněného základního příjmu.`
+`Jednotlivé prvky budovaného systému budou před naprogramováním nejprve prakticky ověřovány a testovány na konkrétním příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
 
 ## 6 modulů (částí) chytrého systému 
@@ -28,16 +28,18 @@ Tento modul bude mít tyto funkcionality (oceníme Vaše připomínky a návrhy)
 - prvek 5: prohlížení návrhů jednotlivě i v kontextu
 - prvek 6:
 
-**Vaše otázky/požadavky/komentáře k této části:**
-(zde budeme sbírat Vaše náměty) - STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvodnění
+**Vaše otázky/požadavky/komentáře k této části:** 
+(zde budeme sbírat Vaše náměty) 
+STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvodnění
 
 
 ```
 
-**Odkaz na zkušební verzi sběrného formuláře:** 
-https://docs.google.com/forms/d/1pZHPix5DfDnXqsuo21YRMI2-ze0PegkkuOjWoxfHfQk/ 
+**Odkaz na zkušební verzi sběrného formuláře:** <br>
+[Link](https://docs.google.com/forms/d/1pZHPix5DfDnXqsuo21YRMI2-ze0PegkkuOjWoxfHfQk/) 
 
-**Náhled do tabulky návrhů:** https://docs.google.com/spreadsheets/d/1A-Z9R1hbkcU2HO_twYkmud9sZyUj-OMOTOwAyZitRKQ (s možností psát komentáře)
+**Náhled do tabulky návrhů:**<br>
+[Link](https://docs.google.com/spreadsheets/d/1A-Z9R1hbkcU2HO_twYkmud9sZyUj-OMOTOwAyZitRKQ (s možností psát komentáře))
 <hr>
 
 
@@ -89,7 +91,7 @@ https://docs.google.com/forms/d/1pZHPix5DfDnXqsuo21YRMI2-ze0PegkkuOjWoxfHfQk/
 **ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
 
-# Kritický blog: aktuální praxe tvorby programů ve stranách
+<h2 style="color:$silver-chalice"> Kritický blog: aktuální praxe tvorby programů ve stranách</h2>
 
 Zde najdete komentáře s konkrétními příklady...
 
