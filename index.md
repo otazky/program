@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Vítejte na stránkách projektu "Politický program: participativně, deliberativně a open source"
 
-You can use the [editor on GitHub](https://github.com/otazky/program/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Zde najdete veřejné přemýšlení a experimentování v oblasti způsobu bezbariérové a transparentní tvorby smysluplného dlouhodobého programu, který se zaměřuje na to nejpodstatnější v širokém kontextu a na synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jednotlivé prvky budou ověřovány a představovány na příkladu návrhu zavedení `nepodmíněného základního příjmu`.
+.....
 
 ```markdown
-Syntax highlighted code block
+Sem přijde 5 modulů, částí chytré databáze
 
-# Header 1
-## Header 2
-### Header 3
+### 1. Návrhy do programu: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
 
-- Bulleted
-- List
+- prvek 1: formulář pro návrhy s pevnou strukturou
+- prvek 2: prohlížení návrhů jednotlivě i v kontextu
+- prvek 3:
 
-1. Numbered
-2. List
+1. Vaše otázky/požadavky k této části
+2. ???
 
-**Bold** and _Italic_ and `Code` text
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+```
+```markdown
+### 2. Státní rozpočet: celek, kategorie, vazba na programové návrhy, interaktivní změna rozpočtu
 
-[Link](url) and ![Image](src)
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
 ```
 
+```markdown
+### 3. Zákony: vazba na státní rozpočet, sledování "kvality" zákonů (duplicity, přílepky, redundance, krátký životnost - velký počet novelizací aj.)
+
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+
+```
+```markdown
+### 4. 100 celonárodních priorit: jaké kroky nejvíce odblokují náš rozvoj
+
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+
+```
+```markdown
+### 5. ???
+
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno 
+
+```
+
+# Kritický blog: aktuální praxe tvorby programů ve stranách
+
+Zde najdete komentáře s konkrétními příklady...
+
+<hr>
+
+**Kontakt:** Miluš Kotišová, _milusTECKAkotisovaATvolnyTECKAcz_, tel: `773 219 196`
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otazky/program/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Link](url) 
+![Image](src)
