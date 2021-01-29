@@ -5,19 +5,27 @@ Toto je nezávislá, nadstranická iniciativa. Začínáme takřka od nuly - ve�
 `Jednotlivé prvky budovaného systému budou před naprogramováním nejprve prakticky ověřovány a testovány na konkrétním příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
 
-## 6 modulů (částí) chytrého systému 
+## 7 modulů (částí) chytrého systému 
 
 Systém - databáze - bude mít patrně 6 samostatných, ale funkčně propojených částí.
 
-1. Programové návrhy <br>
-2. Statistická databáze - základní kontrolní skupiny a profily
-3. Otevřený státní rozpočet<br>
-4. Otevřená legislativa<br>
-5. 100 strategických priorit<br>
-6. Vizuální deliberace 
+1. Dlouhodobé kompasy (rezorty) <br>
+2. Programové návrhy <br>
+3. Statistická databáze - základní kontrolní skupiny a profily<br>
+4. Otevřený státní rozpočet<br>
+5. Otevřená legislativa<br>
+6. 100 strategických priorit<br>
+7. Vizuální deliberace <br>
+(viz níže podrobněji)
 <hr>
 
-### 1. Programové návrhy: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
+```markdown
+### 1. Dlouhodobé kompasy: obecnější trendy hodné posilování (celospolečenská shoda)
+
+Snadnější horizontální kontrola synergií napříč programem. Může sloužit i jako relativně jednoduché vodítko pro poslance/kyně při rozhodování o nové legislativě, mohou pokládat otázky ve vztahu ke kompasům.
+
+```
+### 2. Programové návrhy: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
 ```markdown
 Tento modul bude mít tyto funkcionality (oceníme Vaše připomínky a návrhy):
 
@@ -42,7 +50,8 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 <hr>
 
 
-### 2. Státní rozpočet: celek, kategorie, vazba na programové návrhy, interaktivní změna rozpočtu
+### 3. Statistická databáze - základní kontrolní skupiny a profil
+
 ```markdown
 
 - prvek 1:
@@ -54,19 +63,8 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 **ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
 
-### 3. Zákony: vazba na státní rozpočet, sledování "kvality" zákonů (duplicity, přílepky, redundance, krátký životnost - velký počet novelizací aj.)
-```markdown
+### 4. Státní rozpočet: celek, kategorie, vazba na programové návrhy, interaktivní změna rozpočtu
 
-- prvek 1:
-
-1. Vaše otázky/požadavky k této části
-
-
-```
-**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
-<hr>
-
-### 4. 100 celonárodních priorit: jaké kroky nejvíce odblokují náš rozvoj
 ```markdown
 
 - prvek 1:
@@ -78,7 +76,19 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 **ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
 
-### 5. Vizuální deliberace: každý má trvale dálkový přístup k celku i detailu toho podstatného pro své rozhodování a občanskou intervenci
+### 5. Zákony: vazba na státní rozpočet, sledování "kvality" zákonů (duplicity, přílepky, redundance, krátký životnost - velký počet novelizací aj.)
+```markdown
+
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
+
+
+```
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
+<hr>
+
+### 6. 100 celonárodních priorit: jaké kroky nejvíce odblokují náš rozvoj
 ```markdown
 
 - prvek 1:
@@ -90,7 +100,19 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 **ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
 <hr>
 
-<h2 style="color:$silver-chalice"> Kritický blog: aktuální praxe tvorby programů ve stranách</h2>
+### 7. Vizuální deliberace: každý má trvale dálkový přístup k celku i detailu toho podstatného pro své rozhodování a občanskou intervenci
+```markdown
+
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
+
+```
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
+<hr>
+
+<h2 style="color: silver-chalice"> Kritický blog: aktuální praxe tvorby programů ve stranách</h2>
 
 Zde najdete komentáře s konkrétními příklady...
 
