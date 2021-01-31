@@ -19,7 +19,7 @@ Systém - databáze - bude mít patrně 8 samostatných, ale funkčně propojen�
 (viz níže podrobněji)
 <hr>
 
-aktualizace: 31.1. 2021
+/aktualizace: 31.1. 2021/
 
 ### 1. Dlouhodobé kompasy: obecnější trendy hodné posilování (celospolečenská shoda)
 Snadnější horizontální kontrola synergií napříč programem. Může sloužit i jako relativně jednoduché vodítko pro poslance/kyně při rozhodování o nové legislativě, mohou pokládat otázky ve vztahu ke kompasům.
@@ -33,7 +33,7 @@ Snadnější horizontální kontrola synergií napříč programem. Může slou�
 
 **Vaše otázky/požadavky/komentáře k této části:** 
 ```
-![Náhled ukázky kompasu s možností psát komentáře](https://drive.google.com/file/d/13lRzIPtGvrZu8AsIKAEgoWS8s4PlpqNO/) <br>
+![<img src="https://drive.google.com/file/d/13lRzIPtGvrZu8AsIKAEgoWS8s4PlpqNO">] <br>
 [**Odkaz na zkušební verzi kompasu:**](https://docs.google.com/document/d/1bA1ilWpPb1nv2ECeb9DikwUboAMSUDDE018uOnp2tW4/)
 
 <hr>
