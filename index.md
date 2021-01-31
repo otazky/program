@@ -4,7 +4,6 @@ Toto je nezávislá, nadstranická iniciativa. Začínáme takřka od nuly - ve�
 
 `Jednotlivé prvky budovaného systému (aplikace) budou před naprogramováním nejprve prakticky ověřovány a testovány na konkrétním příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
-
 ## 8 modulů (částí) chytrého systému 
 
 Systém - databáze - bude mít patrně 8 samostatných, ale funkčně propojených částí.
@@ -20,6 +19,7 @@ Systém - databáze - bude mít patrně 8 samostatných, ale funkčně propojen�
 (viz níže podrobněji)
 <hr>
 
+aktualizace: 31.1. 2021
 
 ### 1. Dlouhodobé kompasy: obecnější trendy hodné posilování (celospolečenská shoda)
 Snadnější horizontální kontrola synergií napříč programem. Může sloužit i jako relativně jednoduché vodítko pro poslance/kyně při rozhodování o nové legislativě, mohou pokládat otázky ve vztahu ke kompasům.
@@ -33,7 +33,7 @@ Snadnější horizontální kontrola synergií napříč programem. Může slou�
 
 **Vaše otázky/požadavky/komentáře k této části:** 
 ```
-![Náhled ukázky kompasu s možností psát komentáře](/otazky.github.io/assets/img/kompas.jpg) <br>
+![Náhled ukázky kompasu s možností psát komentáře](assets/kompas.jpg) <br>
 [**Odkaz na zkušební verzi kompasu:**](https://docs.google.com/document/d/1bA1ilWpPb1nv2ECeb9DikwUboAMSUDDE018uOnp2tW4/)
 
 <hr>
