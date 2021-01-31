@@ -33,7 +33,7 @@ Snadnější horizontální kontrola synergií napříč programem. Může slou�
 
 **Vaše otázky/požadavky/komentáře k této části:** 
 ```
-![Náhled ukázky kompasu s možností psát komentáře](assets/kompas.jpg) <br>
+![Náhled ukázky kompasu s možností psát komentáře](https://drive.google.com/file/d/13lRzIPtGvrZu8AsIKAEgoWS8s4PlpqNO/) <br>
 [**Odkaz na zkušební verzi kompasu:**](https://docs.google.com/document/d/1bA1ilWpPb1nv2ECeb9DikwUboAMSUDDE018uOnp2tW4/)
 
 <hr>
