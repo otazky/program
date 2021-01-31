@@ -1,32 +1,41 @@
 ## Politický program: participativně, deliberativně a open source
 
-Toto je nezávislá, nadstranická iniciativa. Začínáme takřka od nuly - veřejně přemýšlíme a experimentujeme s tím, jak bezbariérově a transparentně tvořit smysluplný dlouhodobý program, který se zaměřuje na to nejpodstatnější v širokém kontextu a na celkový synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). Forma a cíle komunikace s voliči, hledání celospolečenského konsenzu i způsob tvorby a prosazování programu si zaslouží hlubokou proměnu. Žádný voličský návrh se nesmí ztratit, zapadnout, zůstat bez reakce, potřebuje být vsazen do širšího kontextu, srovnán s jinými, dál rozpracován, kriticky posouzen... Programová politika bez samozvaných strážců brány, s transparentními kritérii stupně rozpracování návrhu a zpětnou vazbou. Uvítáme zájemce o spolupráci.
+Toto je nezávislá, nadstranická iniciativa. Začínáme takřka od nuly - veřejně přemýšlíme a experimentujeme s tím, jak bezbariérově a transparentně budovat konsenzus napříč společností, navracet voličům důvěru v politiku, tvořit smysluplný dlouhodobý program, který se zaměřuje na to nejpodstatnější a na celkový synergický přínos, tedy důraz na shodu napříč politickou scénou a multisatisfaktory (řešení, která řeší vícero problémů naráz). Forma a cíle komunikace s voliči, hledání celospolečenského konsenzu i způsob tvorby a prosazování programu si zaslouží hlubokou proměnu. Žádný voličský návrh se nesmí ztratit, zapadnout, zůstat bez reakce, potřebuje být vsazen do širšího kontextu, srovnán s jinými, dál rozpracován, kriticky posouzen... Programová politika bez samozvaných strážců brány, s transparentními kritérii stupně rozpracování návrhu a zpětnou vazbou. Uvítáme zájemce o spolupráci.
 
-`Jednotlivé prvky budovaného systému budou před naprogramováním nejprve prakticky ověřovány a testovány na konkrétním příkladu návrhu zavedení nepodmíněného základního příjmu.`
+`Jednotlivé prvky budovaného systému (aplikace) budou před naprogramováním nejprve prakticky ověřovány a testovány na konkrétním příkladu návrhu zavedení nepodmíněného základního příjmu.`
 
 
-## 7 modulů (částí) chytrého systému 
+## 8 modulů (částí) chytrého systému 
 
-Systém - databáze - bude mít patrně 6 samostatných, ale funkčně propojených částí.
+Systém - databáze - bude mít patrně 8 samostatných, ale funkčně propojených částí.
 
 1. Dlouhodobé kompasy (rezorty) <br>
-2. Programové návrhy <br>
+2. Programové návrhy (sběr) <br>
 3. Statistická databáze - základní kontrolní skupiny a profily<br>
 4. Otevřený státní rozpočet<br>
 5. Otevřená legislativa<br>
 6. 100 strategických priorit<br>
 7. Vizuální deliberace <br>
+8. Srovnání politických programů a průniků 
 (viz níže podrobněji)
 <hr>
 
 
 ### 1. Dlouhodobé kompasy: obecnější trendy hodné posilování (celospolečenská shoda)
 Snadnější horizontální kontrola synergií napříč programem. Může sloužit i jako relativně jednoduché vodítko pro poslance/kyně při rozhodování o nové legislativě, mohou pokládat otázky ve vztahu ke kompasům.
+
 ```markdown
-- prvek 1:
+- prvek 1: ukázka 1 kompasu (formulář, struktura)
+- prvek 2: metadata (počet přispěvatelů, poslední aktualizace, stupeň rozpracování)
+- prvek 3: popis, co se s kompasem děje dál
+- prvek 4: přehled kompasů (databáze)
+- prvek 5: 
 
 **Vaše otázky/požadavky/komentáře k této části:** 
 ```
+![Náhled ukázky kompasu s možností psát komentáře](src)
+[**Odkaz na zkušební verzi kompasu:**](https://docs.google.com/document/d/1bA1ilWpPb1nv2ECeb9DikwUboAMSUDDE018uOnp2tW4/)
+
 <hr>
 ### 2. Programové návrhy: vložení nových, jasná struktura návrhu, fáze připravenosti návrhu, přehled, srovnání, propočet nákladnosti aj.
 ```markdown
@@ -45,7 +54,6 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 
 
 ```
-
 
 [**Odkaz na zkušební verzi sběrného formuláře:**](https://docs.google.com/forms/d/1pZHPix5DfDnXqsuo21YRMI2-ze0PegkkuOjWoxfHfQk/) 
 
@@ -104,6 +112,19 @@ STAV: zapracované / nezapracované - hledá se řešení / odmítnuto - zdůvod
 <hr>
 
 ### 7. Vizuální deliberace: každý má trvale dálkový přístup k celku i detailu toho podstatného pro své rozhodování a občanskou intervenci
+```markdown
+
+- prvek 1:
+
+1. Vaše otázky/požadavky k této části
+
+```
+
+**ODKAZ NA PRACOVNÍ VERZI MODULU:** bude doplněno (práva zápisu, komentářů)
+<hr>
+
+### 8. Srování politických programů: indexace jednotlivých částí programů, historický záznam o naplňování programu
+
 ```markdown
 
 - prvek 1:
